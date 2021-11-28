@@ -28,9 +28,8 @@ Here's a walkthrough of implemented user stories:
 
 https://i.imgur.com/KPTdEFg.mp4
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/KPTdEFg" data-context="false" ><a href="//imgur.com/a/KPTdEFg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<img src='https://i.imgur.com/KPTdEFg.mp4' title='Video Walkthrough' width='50' alt='Video Walkthrough' />
+<img src='todo.gif' title='Video Walkthrough' width='50' alt='Video Walkthrough' />
 
 GIF created with [ezgif](ezgif.com).
 
