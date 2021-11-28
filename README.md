@@ -25,6 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+https://giphy.com/gifs/codepath-simple-todo-vY9VGwTpFd5h2onazy
 
 <img src="https://giphy.com/gifs/codepath-simple-todo-vY9VGwTpFd5h2onazy" title='Video Walkthrough' width='50' alt='Video Walkthrough' />
 
