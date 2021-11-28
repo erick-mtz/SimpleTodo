@@ -36,6 +36,8 @@ GIF created with [convertio](https://convertio.co/).
 
 Describe any challenges encountered while building the app.
 
+- I didn't come across an specific challenges across the way, but I did often have to back thoughout the walkthough videos to ensure I understood what certain componments did.
+
 ## License
 
     Copyright [2021] [ErickMartinez]
