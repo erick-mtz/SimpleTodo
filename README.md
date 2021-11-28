@@ -26,12 +26,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://i.imgur.com/KPTdEFg.mp4
 
 
-<img src='todo.gif' title='Video Walkthrough' width='50' alt='Video Walkthrough' />
+<img src='todo.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
-GIF created with [ezgif](ezgif.com).
+GIF created with [convertio](https://convertio.co/).
 
 ## Notes
 
